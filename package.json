@@ -1,0 +1,14 @@
+{
+  "name": "theclooser",
+  "version": "0.0.1",
+  "description": "muzik vs.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "ahmet caglar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
